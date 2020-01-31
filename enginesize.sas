@@ -5,4 +5,5 @@ data cars;
    *additions made in EG;
    *another EG change;
    *and even more EG changes;
+   *continuing to work in EG;
 run;
