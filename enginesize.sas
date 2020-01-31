@@ -8,4 +8,5 @@ run;
 
 data different;
    set sashelp.class;
+   *more separate work in Studio;
 run;
