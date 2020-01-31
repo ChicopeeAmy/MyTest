@@ -5,3 +5,7 @@ data cars;
    *additions made in EG;
    *another EG change;
 run;
+
+data different;
+   set sashelp.class;
+run;
