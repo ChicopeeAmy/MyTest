@@ -4,6 +4,8 @@ data cars;
    *a bunch of code assuming numeric enginesize;
    *additions made in EG;
    *another EG change;
+   *and even more EG changes;
+   *continuing to work in EG;
 run;
 
 data different;
